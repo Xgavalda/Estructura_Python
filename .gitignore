@@ -1,0 +1,12 @@
+.env
+
+venv
+
+sessions/
+
+.idea/
+
+__pycache__
+
+
+registered_sessions.txt
